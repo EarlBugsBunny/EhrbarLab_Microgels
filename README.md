@@ -14,6 +14,6 @@ In the second approach the YAP intensity of only the nuclei was measured (again 
 
 
 ---
-All rights 
+If you use the scripts please cite the EhrbarLab and the soon the be published paper of Krattiger et al.
 
 
